@@ -4,4 +4,4 @@
 
 ---
 
-Experiment 2 (Expt-2): Isolation of anaerobic and aerobic microorganism.
+Experiment 2 (Expt-2): Isolation of anaerobic and aerobic microorganisms.
