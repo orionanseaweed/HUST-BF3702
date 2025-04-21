@@ -1,6 +1,6 @@
 ### School of Chemistry and Life Sciences, Hanoi University of Science and Technology
 
-#### BF3702: Experiments in Microbiology
+#### Semester 2024.2 - BF3702: Experiments in Microbiology
 
 ---
 
